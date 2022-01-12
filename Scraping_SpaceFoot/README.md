@@ -16,6 +16,6 @@ Le fichier php va aussi créer un fichier csv contenant le nombre d'offres de co
 
 Voici une image de phpMyAdmin : 
 
-(phpMyAdmin.png)
+![phpMyAdmin](phpMyAdmin.png)
 
 
